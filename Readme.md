@@ -27,4 +27,6 @@
 
 ---
 
-## V1.0
+## V1.1
+
+    > Foram adicionados os comentarios referentes aos funcionamentos do programa. Nessa atualização, não foram tratados otimizações de código.
